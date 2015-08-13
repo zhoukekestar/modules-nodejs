@@ -1,3 +1,13 @@
+## nodejs keywords
+* nodejs, console, output, log, linenumber, 终端输出, 日志管理, 显示行号
+* render, 重定向, 全局变量
+* custom view engine, 自定义模板引擎
+* wechat tool, 微信工具类
+* hmacSha1, 腾讯云
+
+## nodejs
+* nodejs常用模块
+
 ## console
 * 使用方法：使用require引用后即可，会覆盖系统的console对象，使用时，正常编写代码即可
 ```js
