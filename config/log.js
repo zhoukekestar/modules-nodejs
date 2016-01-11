@@ -9,6 +9,7 @@ if (process.env.NODE_ACE !== undefined) {
     hostname: 'localhost',
     port: 3000,
     path: '/MongoDB/logs',
+    https: false,
     debug: true
   }
 
@@ -23,6 +24,7 @@ if (process.env.NODE_ACE !== undefined) {
     hostname: 'localhost',
     port: 3000,
     path: '/MongoDB/logs',
+    https: false,
     debug: true
   }
 
@@ -36,6 +38,7 @@ if (process.env.NODE_ACE !== undefined) {
     hostname: 'localhost',
     port: 3000,
     path: '/MongoDB/logs',
+    https: false,
     debug: true
   }
 }
